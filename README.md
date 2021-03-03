@@ -1,5 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on datascience
+🔭 I’m currently studying in the field of health data science. 
+
 <!--
 **ThanradaP/ThanradaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
