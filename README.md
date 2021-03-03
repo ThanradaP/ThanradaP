@@ -1,6 +1,13 @@
 ### Hi there 👋
 🔭 I’m currently studying in the field of health data science. 
 
+#### For more about me:
+Data science students who able to use (data) statistics and machine
+learning for findind complex data platterns that drive meaningful
+impact on healthcare. I am always happy to learn new things, and I
+would like to use the knowledge I have accumulated to benefit the
+organization in some way.
+
 <!--
 **ThanradaP/ThanradaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
